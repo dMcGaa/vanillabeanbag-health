@@ -84,9 +84,10 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
+    siteUrl: https://vanillabeanbag.com
     seo:
-        title: Dendron
-        description: Personal Knowledge Space
+        title: VanillaBeanBag
+        description: Recipes and other health info
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
