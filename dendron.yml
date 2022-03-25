@@ -84,8 +84,7 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
-    siteUrl: https://dmcgaa.github.io/vanillabeanbag-health
-    assetsPrefix: '/vanillabeanbag-health'
+    siteUrl: https://vanillabeanbag.com
     seo:
         title: VanillaBeanBag
         description: Recipes and other health info
