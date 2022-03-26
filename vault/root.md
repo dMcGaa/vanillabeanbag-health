@@ -1,6 +1,6 @@
 ---
 id: b4sxhufsiue6pv9evqo2mp8
-title: Root
+title: VanillaBeanBag - Home
 desc: ''
 updated: 1648243484436
 created: 1648243484437
