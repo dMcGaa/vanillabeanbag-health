@@ -7,6 +7,8 @@ created: 1648243484437
 ---
 # Welcome to VanillaBeanBag
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
+Recipes and other health information.
 
-## Lookup
+## Favorites
+- [[recipe.keto-friendly-list]]
+- [[recipe.cracker-almond-flour]]

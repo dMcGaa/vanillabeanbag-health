@@ -13,4 +13,4 @@ A List of recipes that are keto friendly
     > Generally, popular ketogenic resources suggest an average of 70-80% fat from total daily calories, 5-10% carbohydrate, and 10-20% protein. For a 2000-calorie diet, this translates to about 165 grams fat, 40 grams carbohydrate, and 75 grams protein. 
 
 ## Snacks
-- [[recipe.snack.cracker-almond-flour]]
+- [[recipe.cracker-almond-flour]]
