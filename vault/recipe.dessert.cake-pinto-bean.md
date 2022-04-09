@@ -33,7 +33,7 @@ created: 1648304986198
 
 1. Bake at 375 degrees F (190 degrees C) for 45 minutes. Dribble with a simple confectioner's sugar icing and garnish with candied cherries and pecan halves, if desired.
 
-![picture of bean cake](/assets/images/bean-cake.jpeg)
+![picture of bean cake](/assets/images/bean-cake.webp)
 
 ## References
 - <https://www.allrecipes.com/recipe/7706/pinto-bean-cake/>
