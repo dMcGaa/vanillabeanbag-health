@@ -14,3 +14,4 @@ A List of recipes that are keto friendly
 
 ## Snacks
 - [[recipe.cracker-almond-flour]]
+- [[recipe.cookie-tiger-nut-almond-flour]]

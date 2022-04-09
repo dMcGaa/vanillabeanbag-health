@@ -1,6 +1,6 @@
 ---
 id: f8ce4kj5q8xb03nxo74pdqf
-title: Almond Flour Cracker
+title: Cracker - Almond Flour
 desc: ''
 updated: 1648305484666
 created: 1648305484666
@@ -21,6 +21,7 @@ created: 1648305484666
 - 2 cups almond flour
 - (1/2 cup almond meal, optional)
 - 1/2 cup flax meal (ground seeds)
+    - substitute with 1/2 cup tiger nuts
 - 3 Tbsp sesame seeds
 - 2 Tbsp dried onions (flakes)
 - 1/2 cup parmesan cheese

@@ -12,3 +12,6 @@ Recipes and other health information.
 ## Favorites
 - [[recipe.keto-friendly-list]]
 - [[recipe.cracker-almond-flour]]
+
+## Info
+- [[info.macronutrients]]
