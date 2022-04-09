@@ -9,7 +9,7 @@ created: 1649509606611
 ## Quick info
 - 1 serving, 1 cookie (94 kcal)
 
-    | macro | percent | grams | calories |
+    | macro | ratio | grams | calories |
     | ---  | --- | --- | --- |
     | fat | 77% | 7.6g | 68.4 kcal |
     | protein | 9% | 2g | 8.0 kcal |

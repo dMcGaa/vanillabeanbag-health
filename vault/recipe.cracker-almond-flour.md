@@ -9,7 +9,7 @@ created: 1648305484666
 ## Quick info
 - 1 square serving (61 kcal)
 
-    | macro | percent | grams | calories |
+    | macro | ratio | grams | calories |
     | ---  | --- | --- | --- |
     | fat | 74% | 5g | 45 kcal |
     | protein | 19.5% | 3g | 12 kcal |
